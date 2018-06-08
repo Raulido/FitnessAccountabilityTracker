@@ -24,7 +24,11 @@ https://gyazo.com/2f63b55ab14a2e14e7d0b7288d2dc627
 https://gyazo.com/f0c34dab7c54606391a03cf4b9ef6e8c
 To switch between the view and text screen click on the view and text buttons in the bottom middle of android studio.
 
-(Updates Step 5.) Now lets run the system on our emulator by clicking on the green triangle on the top right of android studio. Select the emulator we downloaded earlier(Virtual Device) and press ok. The system build might take a few minutes. You should be able to see your device if you are using the Nox emulator from the alternative step 2. If you are trying to use the emulator on android studio and its not coming online, Andriod Emulator is enabled in the SDK tools. 
+(Updates Step 5.) Now lets run the system on our emulator by clicking on the green triangle on the top right of android studio. Select the emulator we downloaded earlier(Virtual Device) and press ok. The system build might take a few minutes. You should be able to see your device if you are using the Nox emulator from the alternative step 2. If you are trying to use the emulator on android studio and its not coming online, make sure that Andriod Emulator is enabled in the SDK tools. 
 https://gyazo.com/48356ba314c8bbff55280d883400d73e
 
+(New 6.) We have added some additional pages to our system...
 6. Once the app opens up you will be greeted by a login page. Since this will be your first time using the app you will have to sign up by clicking on the test "Not a member? Get registered in Firebase now!" this will take you to the sign up page. Now create an account with a junk email and password and register. If registration is successfull then you should be taken to our apps homepage. When accounts are created we also initialize the users levels/experience. Our sign out button is on a different page and hasn't been linked to the home page, so you will have to close the page and run the system again to test the login and forgot password pages. The forgot password page will send a password reset email to the email you submit. The login page just logs you in to the homepage. This is what our system has so far, our friends list and game are currently being worked on, so make sure to check in later on!
+
+
+Thank you, and have a wonderful summer.

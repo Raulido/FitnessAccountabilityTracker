@@ -3,7 +3,7 @@ Fitness Accountability Time app
 (Updated)
 
 
-(New) - 6/8/2018 - Update - The overall process on running and building our current system has mainly stayed the same, for that reason we will reuse the majority of the old instructions from the Draft Project. An important note is that the file on github with our most recent system has changed to "latest.zip" and has been updated in the steps below. Since there was some difficulties on running/building our system last time I will try to add some additional steps that might help. Also, some typos were fixed.
+(New) - 6/8/2018 - Update - The overall process on running and building our current system has mainly stayed the same, for that reason we will reuse the majority of the old instructions from the Draft Project. An important note is that the file on github with our most recent system has changed to "latest.zip", so make sure not to download the old one. Since there was some difficulties on running/building our system last time I will try to add some additional steps that might help. Also, some typos were fixed.
 
 Instructions on how to run and build our current system:
 

@@ -3,7 +3,7 @@ Fitness Accountability Time app
 (Updated)
 
 
-(New) - 6/8/2018 - Update - The overall process on running and building our current system has mainly stayed the same, for that reason we will reuse the majority of the old instructions from the Draft Project. An important note is that the file on github with our most recent system has changed to "latest.zip", so make sure not to download the old one. Since there was some difficulties on running/building our system last time I will try to add some additional steps that might help. Also, some typos were fixed.
+(New) - 6/8/2018 - Update - The overall process on running and building our current system has mainly stayed the same, for that reason we will reuse the majority of the old instructions from the Draft Project. An important note is that the file on github with our most recent system has changed to "latest1.zip", so make sure not to download the old one. Since there was some difficulties on running/building our system last time I will try to add some additional steps that might help. Also, some typos were fixed.
 
 Instructions on how to run and build our current system:
 
@@ -13,7 +13,7 @@ Instructions on how to run and build our current system:
 
 (Old step 2.) Once Android Studio is downloaded, you will need to download the Android Emulator to build the system. This can be done by opening Android Studio, going to the AVD manager which is located under the tools tab. Then click on the Create Virtual Device button. A list of devices will show up, we highly recommended getting the Nexus 5X API 27. This can be done by selecting the Nexus 5X, clicking on next on the bottom right and selecting the Oreo API level 27 version. Download this virtual device and make sure that the startup orientation is on Portrait.
 
-3. Now that we have Android Studio and our emulator(Virtual Device) installed, we can now focus on exectuing our code. To start off, go to our master branch on github and download our current system("latest.zip"). This file should be extracted to the AndroidStudioProjects file. This file is located in the current user's directory.For example, https://gyazo.com/a3bc4b16942f8d6802a34b0aed4d487f .
+3. Now that we have Android Studio and our emulator(Virtual Device) installed, we can now focus on exectuing our code. To start off, go to our master branch on github and download our current system("latest1.zip"). This file should be extracted to the AndroidStudioProjects file. This file is located in the current user's directory.For example, https://gyazo.com/a3bc4b16942f8d6802a34b0aed4d487f .
 
 (Updated Step 4). Now to open the project on Android Studio, simply go to the File tab on Android Studio then click on open. Select our project and press the ok button. Once everything has loaded in move on to step 4.5.
 
